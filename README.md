@@ -8,4 +8,4 @@ Plan
 ##Wednesday:Python study
 ##Thursday:HTML + CSS+jQury
 ##Friday to Saturday:Learn Java according the black horse tuison course
-##Homeword finish time.
+##Sunday:Homework finish time.
